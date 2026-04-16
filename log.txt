@@ -456,3 +456,11 @@ Skipped (No valid phone): Centre dentaire AMLAL
 Scrolling to load more results (batch complete)...
 Skipped (No valid phone): Centre dentaire ELMCHICHI
 Skipped (No valid phone): Dr Guessous Majda - Cabinet Dentaire Guessous
+Skipped (No valid phone): Dr. Berrada tahar
+Skipped (No valid phone): Centre dentaire Essakali (Orthodontiste)
+Skipped (No valid phone): Dr. SAAD Zineb - Chirurgien Dentiste - Centre Dentaire Yasmine
+Generated Lead: Dr Id halla Samira | Phone: 765626696
+Skipped (No valid phone): Cabinet Dentaire Docteur Imane Latif
+Skipped (No valid phone): Dr. Abid Mehdi. Dentiste spécialiste. Sur rendez-vous. بالموعد. Horaire continu. التوقيت المستمر
+Skipped (No valid phone): Dr.FAIQ RAJA - Centre Dentaire
+Skipped (No valid phone): Cabinet Dentaire CHERRADI
