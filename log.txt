@@ -472,3 +472,244 @@ Skipped (No valid phone): Lachgar Jaouad (Dentiste)
 Skipped (No valid phone): Cabinet dentaire dr Benbella Mohamed
 Skipped (No valid phone): Centre Dentaire ABAAKIL - Dr. Jihane ABAAKIL
 Skipped (No valid phone): Centre Dentaire Kourima
+Skipped (No valid phone): Centre Dentaire Tilila
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Dr youssef Dahbi Skali
+Skipped (No valid phone): Dr Ettaki Salma - Dentiste Enfants et Adultes
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+No new leads found after multiple scrolls. Stopping.
+Appended 17 new entries to existing 51 records.
+Successfully saved to leads.csv (Total: 68 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+rabat/@33.9923527,-6.9017915,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: Centre Dentaire Spécialisé Dr Yasser Boukhal - Dentiste Rabat | Phone: 4638403000639810894
+Generated Lead: Centre Dentaire: Sweet Smile | Phone: 639810894
+Skipped (No valid phone): Dentiste Rabat Agdal – Orthodontie & Implants Centre Dentaire - Dr Adil Guelzim
+Skipped (No valid phone): So Smile cabinet dentaire (dr Rhourri Omar/dr Fathi Safae)- Implantologue et Orthodontiste - Rabat
+Generated Lead: Boukhal Dental Clinic - Centre dentaire Rabat - Dentiste Rabat | Phone: 4638403000639810894
+Generated Lead: Dentiste Rabat - Dr Mokhtar Benabdelkrim - Cabinet Dentaire - طبيب أسنان | Phone: 769537257
+Skipped (No valid phone): LA CLINIQUE DENTAIRE DES NATIONS UNIES RABAT
+Skipped (No valid phone): Centre dentaire Dr HANAE BARRAKI
+Skipped (No valid phone): Centre Dentaire Michlifen - Dentiste Rabat - Dr El Mansouri Aymane - Urgences dentaire - Implants dentaires
+Skipped (No valid phone): Clinique Dentaire Rabat Ville
+Skipped (No valid phone): Clinique dentaire Saada Smile - Dentiste Rabat - Urgences dentaires - Implants dentaires
+Skipped (No valid phone): Dr. Moussa Bellafqih - Centre Dentaire Spécialisé
+Skipped (No valid phone): Dentiste rabat - Cabinet Dentaire Dr Ali Bakken - طبيب أسنان
+Skipped (No valid phone): Clinique Dentaire Mahaj
+Skipped (No valid phone): MACHTAK Dental Clinic l Dentiste à Rabat Hassan Centre-Ville
+Generated Lead: Centre dentaire lahyani | Phone: 777604360
+Generated Lead: Centre Dentaire Dr Talssi Jihane | Phone: 777604360
+Skipped (No valid phone): Urgence dentaire Rabat Sourire
+Skipped (No valid phone): Clinique Dentaire Germano-Syrien rabat
+Skipped (No valid phone): Centre Dentaire Daoui - Dr Daoui Asmaa - Dentiste - Rabat - El Menzeh - Orthodontiste
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Dr Aya Malki - Dentiste Rabat Agdal
+Skipped (No valid phone): CENTRE DENTAIRE RABAT - SMILE CENTER
+Skipped (No valid phone): Cabinet Dentaire Dr. Meriem Zougaghi
+Skipped (No valid phone): Centre Dentaire We Smile
+Skipped (No valid phone): Centre Dentaire Agdal Smile Rabat - Professeur Berrada Fathi Idriss
+Skipped (No valid phone): TAHRI ABDELHAMID Dentiste Rabat - Urgences dentaires - Implants dentaires
+Skipped (No valid phone): BELGHITI DENTAL
+Skipped (No valid phone): Cabinet Dentaire Spécialisé: Dr Mohammed Oujidi
+Skipped (No valid phone): Clinique Dentaire Rabat Bô Sourire agdal - Orthodontie - invisalign - implants
+Skipped (No valid phone): Centre Dentaire DR. AHMED IRAQI - DENTISTE RABAT
+Generated Lead: Perfect smile rabat | Phone: 642824995
+Generated Lead: Cabinet Dentaire Dr Mamouni Meryem | Phone: 642824995
+Skipped (No valid phone): Cabinet Dentaire Multidisciplinaire Dr Mohamed Reda Boutalib
+Skipped (No valid phone): Oris Dental Center - Dr Fatih El Mehdi - Dentiste Rabat
+Skipped (No valid phone): Centre Dentaire Best Smile , Dr el idrissi Anouar
+Skipped (No valid phone): Cabinet Dentaire Al Balssame - Dr Balssame Kabbaj
+Skipped (No valid phone): COI - Dr Line Sawas Nabhan - Cabinet dentaire Agdal
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Agdal Dental Clinic
+Skipped (No valid phone): Dr KHAMLICH - Dentiste Pluridisciplinaire - Clinique dentaire Arribat - Rabat Agdal
+Generated Lead: Dr. Rouijel Mounir - Cabinet dentaire Smile House | Phone: 611381111
+Generated Lead: Centre Dentaire Carrousel - Dr Zineb Moumen - dentiste à Rabat | Phone: 611381111
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Cabinet Dentaire Dr. Khalid Bouzekri
+Skipped (No valid phone): Annakhil Riad - Clinique Dentaire - Médecine esthétique - Rabat
+Skipped (No valid phone): Centre dentaire DR AMRHARHE Salma - Dentiste Rabat
+Generated Lead: Cabinet dentaire Bernoussi | Phone: 614903555
+Skipped (No valid phone): Dentiste Rabat : Centre dentaire Millénium Dr Benyagoub Meryem
+Generated Lead: DR HARZALLAH Achref - Dental Clinic | Phone: 677147648
+Generated Lead: Cabinet dentaire Dr Fahd Fannan | Phone: 677147648
+Skipped (No valid phone): Rabat Dental Center (Dr. Wassim Korati)
+Skipped (No valid phone): Cabinet dentaire ST' Art Dental Care Dr . Sara Tazi - Dentiste et Orthodontiste - Rabat.
+Skipped (No valid phone): Docteur Chirurgien Dentiste Zahim Abdelhamid (Cabinet)
+Skipped (No valid phone): Centre dentaire Dr HELLI Maria (Pedo Dentiste)
+Skipped (No valid phone): Cabinet Art Dentaire - Dr Adil Sebti Chirurgien-Dentiste à Rabat
+Generated Lead: Centre Dentaire Belhaj - Dr BELHAJ Hamza - Dentiste Rabat | Phone: 664707477
+Skipped (No valid phone): Dentiglow dental center - Rabat - centre dentaire
+Skipped (No valid phone): Cabinet Dentaire Docteur Mouna RAHMOUNE
+Skipped (No valid phone): Dr. Sqalli Khalid
+Skipped (No valid phone): Cabinet d'Orthodontie Dr RAISSOUNI Raissoun (RABAT)
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Centre Dentaire Spécialisé Bentayeb
+Skipped (No valid phone): German Dental Clinic: Dr. FENJERO Walid - Dentiste Rabat
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Cabinet dentaire Benhamou
+Skipped (No valid phone): Cabinet Dentaire Dr Sallahi Amine
+Skipped (No valid phone): dr safaa morjane (perfect smile Rabat)
+Skipped (No valid phone): Centre Dentaire Al Fath, Dr El KOUHEN
+Skipped (No valid phone): Elmoussaoui Houda (Dentiste)
+Skipped (No valid phone): Fettouhi dental clinic - Cabinet dentaire rabat agdal Dr Fettouhi Khaoula dentist
+Generated Lead: CENTRE DENTAIRE DR MQIRAGE NAWAL | Phone: 703703701
+Generated Lead: Centre Dentaire Kharbouche Laila | Phone: 600710687
+Generated Lead: Cabinet Dr Raouf Mouelhi | Phone: 600710687
+Skipped (No valid phone): Cabinet Dentaire Spécialisé - Dr. Guennouni Houda - Dentiste Rabat Agdal - DENTALWELL
+Generated Lead: Kettani Dental Center | Phone: 661707656
+Generated Lead: Centre Dentaire Oulahyane – Dr Brahim Oulahyane Dentiste Rabat – Soins & Esthétique | Phone: 661707656
+Skipped (No valid phone): Centre Dentaire Naoual Lahbabi
+Generated Lead: Chirurgien dentiste Rabat - Dr. Abdellah Laenser | Phone: 653535048
+Generated Lead: Centre dentaire multidisciplinaire Hachami | Phone: 653535048
+Generated Lead: Dental Art Center, Dr Samah Sahili | Phone: 645260094
+Generated Lead: CABINET DENTAIRE Dr. EZZIANI Chaimae | Phone: 645260094
+Skipped (No valid phone): Cabinet Dentaire BESRI Omar
+Skipped (No valid phone): Cabinet Dentaire Nahda Dr. Boukhouite Ihssane
+Skipped (No valid phone): Cabinet Dentaire Dr BENDALI SALMA
+Skipped (No valid phone): CENTRE DENTAIRE CLINADENT ( Dr Benlaatmania Mohamed Reda)
+Skipped (No valid phone): Dr Saad Khalil
+Skipped (No valid phone): Menzeh Cabinet Dentaire - Dr. Zineb Haimeur
+Skipped (No valid phone): Clinique Dentaire Souissi
+Skipped (No valid phone): Docteur Chirurgien Dentiste Tamouchi Sina
+Skipped (No valid phone): Dr Amrharhe Abdellatif - Dentiste
+Skipped (No valid phone): Cabinet Dentaire Dr. Khaoula Bencheikh (Dentiste)
+Skipped (No valid phone): Hestia dental center- Dr Benali ihssane - Urgences et implant dentaire Rabat agdal -
+Skipped (No valid phone): Clinique Dentaire Riad
+Skipped (No valid phone): Duo Dental Rabat Agdal - Dr KHALIL Camelia - Dr KRAFESS Omar
+Skipped (No valid phone): Dr Idriss Cherkaoui (dentiste rabat)
+Skipped (No valid phone): NOUR CLINIC - Clinique Dentaire Rabat Hay Riad
+Generated Lead: Dr. BENSOUDA YASMINE - Dentiste Takadoum - Souissi | Phone: 701015050
+Generated Lead: Benzakour Abdelfattah (Dentiste) | Phone: 701015050
+Skipped (No valid phone): KHALIL BOUMLAK (Chirurgien Dentiste)
+Skipped (No valid phone): Centre Dentaire Jaidi
+Skipped (No valid phone): Cabinet Dentaire Dr Errounda
+Skipped (No valid phone): Centre Dentaire Dr Tahri Manal
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Cabinet Dentaire & d'Orthodontie Dr Nadia Belhaj
+Skipped (No valid phone): Centre dentaire Essalam Dr Drhimer Taha.
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): COI - Dental Clinic Hay Riad
+Generated Lead: Dr Badr Ezzahouani – Dental Clinic | Implantologie & Parodontologie – Hay Riad, Rabat | Phone: 681208150
+Generated Lead: Ennamli Tayeb (Dentiste) | Phone: 681208150
+Skipped (No valid phone): iSmile Dental Clinic Dr. Hajji Meriem
+Skipped (No valid phone): Dr Anas El Jabri : Smile Ortho Dental Clinic
+Skipped (No valid phone): Perfect Smile Center (Dr Kawtar Attouzalti)
+Skipped (No valid phone): Cabinet Dentaire Spécialisé | Orthodontie, Implantologie , esthétique du sourire| Dr BENDOURO MOHAMED KAMAL
+Skipped (No valid phone): Cabinet Dentaire Docteur Ejjradi Mourad-Rabat
+Skipped (No valid phone): Cabinet dentaire dr. Sara houachi
+Skipped (No valid phone): Chirurgien Dentiste rabat
+Skipped (No valid phone): Dr. El Assili Rachid Chirurgien Dentiste & Implantologiste
+Skipped (No valid phone): Jassab Mustapha (Dentiste)
+Skipped (No valid phone): Dr. Nada BENCHEKROUN - Chirurgien Dentiste
+Skipped (No valid phone): Centre Dentaire ALMANAR (Dr. YADINI Manar)
+Skipped (No valid phone): Dr Hafsa Khabbach Dentiste
+Skipped (No valid phone): Elomari Abdelhafid (Dentiste)
+Skipped (No valid phone): Dr Sekkak Hicham
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Cabinet dentaire (Benabdeljalil imane)
+Skipped (No valid phone): Cabinet Dentaire Spécialisé du Dr Karima Benbaba Rabat-Agdal
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+No new leads found after multiple scrolls. Stopping.
+Appended 27 new entries to existing 68 records.
+Successfully saved to leads.csv (Total: 94 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+rabat/@33.9924813,-6.9019633,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: Centre Dentaire: Sweet Smile | Phone: 639810894
+Generated Lead: Centre Dentaire Spécialisé Dr Yasser Boukhal - Dentiste Rabat | Phone: 4638403000639810894
+Generated Lead: So Smile cabinet dentaire (dr Rhourri Omar/dr Fathi Safae)- Implantologue et Orthodontiste - Rabat | Phone: 537260607
+Generated Lead: Dentiste Rabat - Dr Mokhtar Benabdelkrim - Cabinet Dentaire - طبيب أسنان | Phone: 769537257
+Generated Lead: Boukhal Dental Clinic - Centre dentaire Rabat - Dentiste Rabat | Phone: 4638403000639810894
+Generated Lead: Centre Dentaire Michlifen - Dentiste Rabat - Dr El Mansouri Aymane - Urgences dentaire - Implants dentaires | Phone: 615998282
+Generated Lead: Dentiste Rabat Agdal – Orthodontie & Implants Centre Dentaire - Dr Adil Guelzim | Phone: 537682468
+Generated Lead: Clinique dentaire Saada Smile - Dentiste Rabat - Urgences dentaires - Implants dentaires | Phone: 661250137
+Generated Lead: Centre dentaire Dr HANAE BARRAKI | Phone: 537661442
+Scrolling to load more results (batch complete)...
+Generated Lead: Dr. Moussa Bellafqih - Centre Dentaire Spécialisé | Phone: 537661442
+Successfully saved to leads.csv (Total: 10 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+riyadh/@26.1379769,-1.8282777,4z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: DentoCare Clinics - عيادات دنتوكير | Phone: +966920017821
+Generated Lead: عيادات زيان لطب الأسنان | Phone: +966554418872
+Generated Lead: Smile Design Dental Clinics | Phone: +966114624272
+Generated Lead: Sanaya Dental Clinics | Phone: +966920014702
+Generated Lead: Oral Dental Clinics | Phone: +966114564442
+Generated Lead: Dima Dental Center مجمع ديمه لطب الأسنان‎ | Phone: +966920005196
+Generated Lead: DR. MOHANAD ALHORANI DENTAL CLINIC | Phone: +966536351147
+Generated Lead: Dentex Clinic | Phone: +966920012949
+Generated Lead: Designer's clinic | Phone: +966920012949
+Generated Lead: Dr.Khaled Moshantaf | Phone: +966920012949
+Generated Lead: IMAGE Dental Clinic | مركز إمج لطب الأسنان | Phone: +966546669831
+Generated Lead: Loran Dental Clinics | عيادات لوران لطب الأسنان | Phone: +966920011217
+Generated Lead: Rawdah Dental Care with Ortho - Riyadh | Phone: +966569132412
+Generated Lead: عيادات سافي لطب وتجميل الاسنان - Savvy Dental Clinics | Phone: +966920005796
+Generated Lead: Sigal Dental Clinic | Phone: +966920002002
+Generated Lead: Uranus Dental Center | Phone: +966920002002
+Generated Lead: عيادات البسمة الثمينة لِتقويم وتجميل الأسنان | Phone: +966506652425
+Generated Lead: Smile Dental Clinic - سمايل لطب وتجميل الاسنان | Phone: +966506652425
+Scrolling to load more results (batch complete)...
+Generated Lead: Dentist Wael al-Hassani Algerian | Phone: +9668001242255
+Generated Lead: Dental Consulting Center (DC) | Phone: +966555123730
+Successfully saved to leads.csv (Total: 20 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+dubai/@25.1675809,55.0640708,11z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: 𝐍𝐎𝐀 𝐃𝐞𝐧𝐭𝐚𝐥 𝐂𝐥𝐢𝐧𝐢𝐜 𝐃𝐮𝐛𝐚𝐢 - Invisalign (Braces, Veneers, Best Orthodontist Dubai, Wisdom, Best Dentist in Dubai, Root Canal) | Phone: 43987075
+Generated Lead: Versailles Dental Clinic | Phone: 44298288
+Generated Lead: Pearl Dental Clinic - Business Bay | Phone: 800732757
+Generated Lead: Crossroads Dental Clinic - Sheikh Zayed Road, Dubai | Phone: 43435424
+Generated Lead: Dental Studio - JBR The Walk | Phone: 43998440
+Generated Lead: American Medical & Dental Center (AMDC) - Dubai Healthcare City | Phone: 43998440
+Scrolling to load more results (batch complete)...
+Generated Lead: Go Dental Clinic, Bur Dubai | Phone: 43998440
+Generated Lead: ORTHODONTIX DENTAL CLINIC - Deira Dubai | Phone: 43998440
+Generated Lead: Crossroads Dental Clinic - Deira, Dubai | Phone: 43998440
+Generated Lead: Healthy Smile Dental & Orthodontic Clinic | Phone: 43998440
+Successfully saved to leads.csv (Total: 10 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/riads+marrakech
+Skipped (No valid phone): Marrakech Riads
+Skipped (No valid phone): Riad AL Jazira
+Skipped (No valid phone): Riad Kasbah & Spa
+Skipped (No valid phone): Riad Dar Baraka
+Generated Lead: Riad Marrakech Medina | Phone: 603291821
+Skipped (No valid phone): Riad Yasmine
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Riad Les Nuits de Marrakech
+Generated Lead: Riad BE Marrakech | Phone: 645860829
+Generated Lead: Marrakech, Riad Collection | Phone: 645860829
+Generated Lead: Riad Des Arts | Phone: 645860829
+Generated Lead: Riad 4 Jardins | Phone: 645860829
+Generated Lead: riad marrakech les orangers d’alilia | Phone: 645860829
+Scrolling to load more results (batch complete)...
+Generated Lead: Riad Zoraida | Phone: 672944130
+Generated Lead: RIAD HERMES | Phone: 672944130
+Generated Lead: Riad Le Petit Joyau | Phone: 662738363
+Generated Lead: Riad Aymane | Phone: 662738363
+Skipped (No valid phone): Riad Charme d'Orient "un Riad De Charme dans la médina"
+Generated Lead: Riad Marrakech Vendome & Spa | Phone: 600608608
+Generated Lead: Riad Kheirredine Marrakech | Phone: 600608608
+Generated Lead: Riad Anya & SPA | Phone: 600608608
+Scrolling to load more results (batch complete)...

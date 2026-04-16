@@ -52,16 +52,33 @@ class GoogleMapsScraper:
             
         return clean
 
-    def is_valid_phone(self, phone: str, exclude_prefixes: List[str]) -> bool:
-        """Checks if phone matches filters"""
+    def is_valid_phone(self, phone: str, filters: Dict) -> bool:
+        """Checks if phone matches both whitelist and blacklist filters"""
         if not phone:
             return False
         
+        exclude_prefixes = filters.get('exclude_prefixes', [])
+        include_prefixes = filters.get('include_prefixes', [])
+
+        # 1. Blacklist Check (Exclude)
         for prefix in exclude_prefixes:
             p_clean = prefix.strip("+").strip("0")
             if phone.startswith(p_clean) or phone.startswith(prefix):
                 return False
+
+        # 2. Whitelist Check (Include Only) - If whitelist is provided, phone MUST match one
+        if include_prefixes:
+            match_found = False
+            for prefix in include_prefixes:
+                p_clean = prefix.strip("+").strip("0")
+                if phone.startswith(p_clean) or phone.startswith(prefix):
+                    match_found = True
+                    break
+            if not match_found:
+                return False
+
         return True
+
 
     def generate_wa_link(self, phone: str, name: str = "") -> str:
         """Generates WhatsApp link with current indicatif and pre-filled message"""
@@ -315,7 +332,7 @@ class GoogleMapsScraper:
                         continue
                     
                     # Add lead if valid
-                    if normalized_phone and self.is_valid_phone(normalized_phone, filters.get('exclude_prefixes', [])):
+                    if normalized_phone and self.is_valid_phone(normalized_phone, filters):
                         self.leads.append(lead_data)
                         if progress: progress.update(task, advance=1)
                         if progress_callback: progress_callback(f"Found: {name}", len(self.leads))
@@ -356,40 +373,16 @@ class GoogleMapsScraper:
             logger.warning("No data to export.")
             return
 
-        new_df = pd.DataFrame(self.leads)
+        final_df = pd.DataFrame(self.leads)
         
-        # --- Appending Logic ---
+        # ------------------------
+        # FRESH EXPORT MODE (No Append)
         csv_file = f"{filename_base}.csv"
-        if os.path.exists(csv_file):
-            try:
-                old_df = pd.read_csv(csv_file)
-                # Ensure all columns exist
-                if "Indicatif" not in old_df.columns: old_df["Indicatif"] = self.indicatif
-                if "City" not in old_df.columns: old_df["City"] = self.city
-                if "Message" not in old_df.columns: old_df["Message"] = ""
-                
-                # Retroactively fill empty messages in old data if template is provided
-                if self.message_template:
-                    mask = (old_df["Message"] == "") | (old_df["Message"].isna())
-                    old_df.loc[mask, "Message"] = old_df.loc[mask, "Name"].apply(
-                        lambda x: self.message_template.replace("[Name]", str(x)).replace("[City]", self.city)
-                    )
-                
-                # Combine old and new
-                final_df = pd.concat([old_df, new_df], ignore_index=True)
-                final_df.drop_duplicates(subset=["Name", "Phone"], keep="first", inplace=True)
-                logger.info(f"Appended {len(new_df)} new entries to existing {len(old_df)} records.")
-            except Exception as e:
-                logger.error(f"Error reading existing CSV: {e}")
-                final_df = new_df
-        else:
-            final_df = new_df
-
+        xlsx_file = f"{filename_base}.xlsx"
         # ------------------------
 
         # Reorder columns for better visibility
         cols = ["Name", "Phone", "City", "Message", "WhatsApp Link", "Status", "Indicatif", "Website", "Address"]
-        # Add any remaining columns (socials, maps link)
         other_cols = [c for c in final_df.columns if c not in cols]
         final_df = final_df[cols + other_cols]
 
@@ -397,27 +390,36 @@ class GoogleMapsScraper:
         final_df.to_csv(csv_file, index=False)
         logger.info(f"Successfully saved to {csv_file} (Total: {len(final_df)} leads)")
         
-        # Save Excel with formatting
-        xlsx_file = f"{filename_base}.xlsx"
+        # Save Excel with HYPERLINK FORMULA
+        import openpyxl
+        from openpyxl.styles import Font, Color, Alignment, PatternFill
+        
         with pd.ExcelWriter(xlsx_file, engine='openpyxl') as writer:
             final_df.to_excel(writer, index=False, sheet_name='Leads')
-
             
-            # Formatting
             workbook = writer.book
             worksheet = writer.sheets['Leads']
             
             # Styling headers
-            from openpyxl.styles import Font, Alignment, PatternFill
             header_font = Font(bold=True, color="FFFFFF")
             header_fill = PatternFill(start_color="4F81BD", end_color="4F81BD", fill_type="solid")
-            
             for cell in worksheet[1]:
                 cell.font = header_font
                 cell.fill = header_fill
                 cell.alignment = Alignment(horizontal="center")
-            
-            # Auto-adjust column width
+
+            # Apply Hyperlink formula to the WhatsApp Link column (Column 5)
+            blue_font = Font(color="0000FF", underline="single")
+            wa_col_idx = 5
+            for row in range(2, len(final_df) + 2):
+                link_val = worksheet.cell(row=row, column=wa_col_idx).value
+                if link_val:
+                    formula = f'=HYPERLINK("{link_val}", "🚀 SEND WHATSAPP")'
+                    cell = worksheet.cell(row=row, column=wa_col_idx)
+                    cell.value = formula
+                    cell.font = blue_font
+
+            # Auto-adjust columns width
             for col in worksheet.columns:
                 max_length = 0
                 column = col[0].column_letter
@@ -425,16 +427,14 @@ class GoogleMapsScraper:
                     try:
                         if len(str(cell.value)) > max_length:
                             max_length = len(str(cell.value))
-                    except:
-                        pass
-                adjusted_width = (max_length + 2)
-                worksheet.column_dimensions[column].width = min(adjusted_width, 50)
+                    except: pass
+                worksheet.column_dimensions[column].width = min(max_length + 2, 50)
             
-            # Freeze header row
             worksheet.freeze_panes = 'A2'
             
         logger.info(f"Successfully saved to {xlsx_file}")
         self.print_preview(final_df)
+
 
     def print_preview(self, df: pd.DataFrame):
         table = Table(title="Leads Preview (Top 10)")

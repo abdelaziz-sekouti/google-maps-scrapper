@@ -3,3 +3,4 @@ pandas
 openpyxl
 rich
 python-slugify
+customtkinter
