@@ -1,0 +1,458 @@
+Fatal error: BrowserType.launch: Executable doesn't exist at /home/aziz/.cache/ms-playwright/chromium_headless_shell-1208/chrome-headless-shell-linux64/chrome-headless-shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+No data to export.
+Navigating to: https://www.google.com/maphttps://www.google.com/maps/search/+Riad+H%C3%B4tel+twiznit/@35.5714225,-5.4389195,13z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3Ds/search/riads+marrakech
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+No listings found. Trying to scroll...
+Navigating to: https://www.google.com/maps/search/riads+marrakechhttps://www.google.com/maps/search/+Riad+H%C3%B4tel+twiznit/@35.5714225,-5.4389195,13z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 140, in run_scraper
+    leads = loop.run_until_complete(scraper.scrape(self.url_entry.get(), filters, self.progress_callback))
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 134, in scrape
+    await page.goto(final_url, wait_until="networkidle")
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/riads+marrakechhttps://www.google.com/maps/search/+Riad+H%C3%B4tel+twiznit/@35.5714225,-5.4389195,13z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D", waiting until "networkidle"
+
+
+Navigating to: https://www.google.com/maps/search/+Riad+H%C3%B4tel+marrakech/@31.6420931,-8.0273852,14z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Successfully saved to leads.csv
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/+Riad+H%C3%B4tel+marrakech/@31.6420931,-8.0273852,14z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 140, in run_scraper
+    leads = loop.run_until_complete(scraper.scrape(self.url_entry.get(), filters, self.progress_callback))
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 134, in scrape
+    await page.goto(final_url, wait_until="networkidle")
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/+Riad+H%C3%B4tel+marrakech/@31.6420931,-8.0273852,14z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D", waiting until "networkidle"
+
+
+Navigating to: https://www.google.com/maps/search/riads+marrakech
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 140, in run_scraper
+    leads = loop.run_until_complete(scraper.scrape(self.url_entry.get(), filters, self.progress_callback))
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 134, in scrape
+    await page.goto(final_url, wait_until="networkidle")
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/riads+marrakech", waiting until "networkidle"
+
+
+Navigating to: https://www.google.com/maps/search/+Riad+H%C3%B4tel+marrakech/@31.6420931,-8.0273852,14z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 140, in run_scraper
+    leads = loop.run_until_complete(scraper.scrape(self.url_entry.get(), filters, self.progress_callback))
+  File "/usr/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 134, in scrape
+    await page.goto(final_url, wait_until="networkidle")
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/async_api/_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+        url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/media/aziz/DATA/ai_design/scrapper/.venv/lib/python3.13/site-packages/playwright/_impl/_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.google.com/maps/search/+Riad+H%C3%B4tel+marrakech/@31.6420931,-8.0273852,14z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D", waiting until "networkidle"
+
+
+Navigating to: https://www.google.com/maps/search/+Riad+H%C3%B4tel+oujda/@34.6854944,-1.9284583,15z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+No data to export.
+Navigating to: https://www.google.com/maps/search/+Riad+H%C3%B4tel+oujda/@34.6854944,-1.9284583,15z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+No data to export.
+Navigating to: https://www.google.com/maps/search/riads+marrakech/@31.6349381,-8.0009735,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Successfully saved to leads.csv
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/riads+marzouga/@31.6349381,-8.0009735,14z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Successfully saved to leads.csv
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+lyon/@45.7656801,4.8057787,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 8 records.
+Successfully saved to leads.csv (Total: 14 leads)
+Successfully saved to leads.xlsx
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 147, in run_scraper
+    scraper.export_data()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 373, in export_data
+    self.print_preview(df)
+                       ^^
+NameError: name 'df' is not defined
+
+Navigating to: https://www.google.com/maps/search/riads+marrakechhttps://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 3 new entries to existing 14 records.
+Successfully saved to leads.csv (Total: 17 leads)
+Successfully saved to leads.xlsx
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 155, in run_scraper
+    scraper.export_data()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 376, in export_data
+    self.print_preview(df)
+                       ^^
+NameError: name 'df' is not defined
+
+Navigating to: https://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 17 records.
+Successfully saved to leads.csv (Total: 23 leads)
+Successfully saved to leads.xlsx
+
+FATAL ERROR:
+Traceback (most recent call last):
+  File "/media/aziz/DATA/ai_design/scrapper/gui.py", line 155, in run_scraper
+    scraper.export_data()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/media/aziz/DATA/ai_design/scrapper/main.py", line 376, in export_data
+    self.print_preview(df)
+                       ^^
+NameError: name 'df' is not defined
+
+Navigating to: https://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 23 records.
+Successfully saved to leads.csv (Total: 29 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 29 records.
+Successfully saved to leads.csv (Total: 35 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 35 records.
+Successfully saved to leads.csv (Total: 41 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+paris/@48.8556281,2.2730075,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 6 new entries to existing 41 records.
+Successfully saved to leads.csv (Total: 43 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+toulouse/@43.5962944,1.3942578,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+No data to export.
+Navigating to: https://www.google.com/maps/search/dentiste+toulouse/@43.5962944,1.3942578,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+No data to export.
+Navigating to: https://www.google.com/maps/search/dentiste+nice/@43.6948385,7.2121261,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 9 new entries to existing 43 records.
+Successfully saved to leads.csv (Total: 49 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+marrakech/@31.6274537,-8.0636778,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 1 new entries to existing 49 records.
+Successfully saved to leads.csv (Total: 50 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+agadir/@30.4169233,-9.6145716,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Appended 1 new entries to existing 50 records.
+Successfully saved to leads.csv (Total: 51 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+agadir/@30.4169233,-9.6145716,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: Centre dentaire Okhsane (Dr BAJJOUK) AGADIR | Phone: 708278048
+Skipped (No valid phone): Centre Dentaire Sonaba - Dr Chaimaa Aboulhassan ( dentiste agadir )
+Skipped (No valid phone): Dr Imane Akhmaij - Dentiste Agadir
+Skipped (No valid phone): Centre Dentaire Founty
+Skipped (No valid phone): Dr. Akfas Oumayma - عيادة طب الأسنان | Dentiste Agadir | Urgence dentaire | Blanchiment dentaire
+Skipped (No valid phone): Dr EZZINE Amine
+Skipped (No valid phone): Centre Dentaire Hay Mohammedi - Dr Issam Chihrar - dentiste agadir
+Skipped (No valid phone): Cabinet dentaire Golden Smile Dr. SARA LAOUINA (Dentiste Agadir)
+Skipped (No valid phone): Dr Houda Zalzouli - Dentiste à Agadir, Signature dentaire
+Skipped (No valid phone): Marhaba Dental Center Agadir
+Skipped (No valid phone): Dr. Khadija ELMOUSAID (centre dentaire)
+Skipped (No valid phone): Centre Dentaire AMIRAL-Docteur naoual HASNAOUI -dentiste
+Skipped (No valid phone): Cabinet Dr Hinde Mabchouri
+Skipped (No valid phone): White Dental Clinic
+Skipped (No valid phone): Dr Nawal LAKSIMI dentiste Agadir- Arisse Cabinet Dentaire
+Skipped (No valid phone): Centre Dentaire Alasmile - Dr FEEKAR ASMA
+Skipped (No valid phone): Clinique Dentaire D'Agadir
+Skipped (No valid phone): Cabinet Dentaire Dr Wissal Qafli - Agadir
+Skipped (No valid phone): Cabinet dentaire Dr. Hanane Bayoussef
+Skipped (No valid phone): Dr. LISS Smile Studio
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Dr Moqadem Youssef
+Skipped (No valid phone): Centre Dentaire Radi - Dr.Radi Mehdi
+Skipped (No valid phone): Centre Dentaire Arganier Agadir
+Skipped (No valid phone): Clinique Dentaire Internationale Agadir
+Skipped (No valid phone): Centre dentaire Ramzi
+Skipped (No valid phone): Centre dentaire dr Iliass Lahloumi
+Skipped (No valid phone): Centre Dentaire Amsernat
+Skipped (No valid phone): Centre dentaire EL ALAMI - Dr.Yousra EL ALAMI | AGADIR
+Skipped (No valid phone): Centre Dentaire Elite
+Skipped (No valid phone): Centre dentaire LABZOUR oussama
+Skipped (No valid phone): Dr El Hassan BIZGARN
+Skipped (No valid phone): Centre dentaire DentalZ
+Skipped (No valid phone): Clinique dentaire Le Sourire Dr Alami Younssi Amal Dentiste Agadir
+Generated Lead: Dr. Benrahmoun Idrissi Youness - Atlas Smile | Phone: 633578680
+Generated Lead: Cabinet dentaire Dr Farhane Aissam | Phone: 665377073
+Generated Lead: Dr. Yasmine ISMAILI - Centre Dentaire Jasmine | Phone: 666658912
+Skipped (No valid phone): Centre dentaire Slimani
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Centre Dentaire Jilale Dr jilale Mohamed ouail
+Skipped (No valid phone): Centre dentaire dr Yassmine Argui
+Generated Lead: Dr.Ghita TLEMSANI BENHATTAL - Chirurgien Dentiste Agadir | Phone: 778631398
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Centre Dentaire Oumlil Smile AGADIR
+Skipped (No valid phone): Centre dentaire BENTOUDA - Dr souad BENTOUDA - dentiste
+Generated Lead: Centre Dentaire Hikmat - Dentiste à Agadir | Phone: 665668263
+Skipped (No valid phone): Centre Dentaire Pierre Fauchard (Dr.Mounir YOUSSOUFINE)
+Skipped (No valid phone): Dr Mourad Gamani cabinet Dentaire spécialisé, agadir implants dentaire , esthetique dentaire smile design
+Skipped (No valid phone): Centre Dentaire Baalla, d'Implantologie & Endodontie Dr. Adil Baalla Chirurgien Dentiste
+Skipped (No valid phone): Cabinet Dentaire Dr. SARA IDJAMAA
+Generated Lead: Let's Smile Dentaire ( Dr. El Azzaoui Siham ) | Phone: 663438377
+Generated Lead: Dentiste Agadir - Dr Asma Kiouane - Chirurgien Dentiste | Phone: 663438377
+Skipped (No valid phone): Amzil Dental Center
+Skipped (No valid phone): AGADIR SMILE DENTAL CLINIC, Dr. TAQI FATIHA
+Skipped (No valid phone): Centre Dentaire Farhani
+Skipped (No valid phone): Agadir Dental Center
+Skipped (No valid phone): Cabinet dentaire Oulhous leila - soins dentaires - dentiste agadir - blanchiment - implantologie
+Skipped (No valid phone): Dr Benkirane Hassan
+Skipped (No valid phone): Cabinet Dentaire Bellamine
+Skipped (No valid phone): Dr CHARI DONIA médecin dentiste
+Scrolling to load more results (batch complete)...
+Generated Lead: Centre Dentaire OUSAID مركز طب الاسنان أوسعيد | Phone: 808571900
+Skipped (No valid phone): Centre Dentaire Al Kheir - DR. AHMED CHOUIKH
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Centre dentaire BAROUDI - AGADIR - Dr Khadija Baroudi طبيب الاسنان
+Skipped (No valid phone): Centre Dentaire OASIS - Dr SAMIR Achraf Dentiste Agadir
+Skipped (No valid phone): Centre dentaire Dr Brouki Nassima
+Skipped (No valid phone): Crown Dental Center - التاج | Dr. Moufaid El Mehdi
+Skipped (No valid phone): Centre dentaire ELJIHADIA
+Skipped (No valid phone): Dr. JIHANE OUEDGHIRI
+Generated Lead: Cabinet Dentaire ES-SAKHI | Phone: 691768901
+Generated Lead: Cabinet dentaire Dr asma Mrida | Phone: 691768901
+Skipped (No valid phone): Clinique dentaire Almohamadi Dr Amina WAKRIM
+Skipped (No valid phone): CENTRE DENTAIRE LAAJI | Dentiste Agadir
+Skipped (No valid phone): Cabinet Dr Adnan Zougaghi
+Skipped (No valid phone): Tooth Oufella Dental Clinic
+Generated Lead: centre dentaire al wafa (Dr Labhar Mohammed ) | Phone: 708019119
+Skipped (No valid phone): Centre Dentaire Lina
+Skipped (No valid phone): Dr. Mansouri Khalid
+Generated Lead: Cabinet dentaire Dr Bassou FatimaEzzahra | Phone: 665085676
+Skipped (No valid phone): Cabinet dentaire Dr Zakaria Bijamane
+Skipped (No valid phone): Cabinet dentaire dr mohamed janty
+Skipped (No valid phone): Cabinet Dentaire Dr hamza Id Taleb
+Skipped (No valid phone): Cabinet dentaire Dr Hajar BACHNIKHA
+Skipped (No valid phone): Centre Dentaire ABOUAMER
+Skipped (No valid phone): Denial Dental Center
+Skipped (No valid phone): Cabinet dentaire Dr Amine Lamzawak
+Skipped (No valid phone): Cabinet dentaire bassam draou
+Skipped (No valid phone): Dentiste Dr.Lamtaibi Nezha
+Skipped (No valid phone): Cabinet dentaire -Dentiste - Dr Boureqqia Omar
+Skipped (No valid phone): Dr. Tahiri Kenza | Centre Dentaire Tahiri | Dentiste Agadir
+Skipped (No valid phone): CABINET DENTAIRE EL MENZAH 1
+Skipped (No valid phone): Centre Dentaire Kennedy Dr Mouad ID BOUHMAD
+Skipped (No valid phone): Cabinet dentaire docteur derkaoui
+Skipped (No valid phone): Dr Edaaif Soumaya
+Skipped (No valid phone): Dr. Abid Ahlam
+Skipped (No valid phone): Dr khettou soukaina
+Skipped (No valid phone): Dr. Moussif Imane, Dental Plus Center Agadir.
+Skipped (No valid phone): Centre Dentaire Arjdal Hasna مركز طب و جراحة الاسنان ارجدال حسناء
+Skipped (No valid phone): Hafidi Dental Center (Dr. Hafidi Mohamed Taha)
+Skipped (No valid phone): Cabinet dentaire Dr. Kbaili Ilyass
+Skipped (No valid phone): Centre dentaire AMLAL
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Centre dentaire ELMCHICHI
+Skipped (No valid phone): Dr Guessous Majda - Cabinet Dentaire Guessous
