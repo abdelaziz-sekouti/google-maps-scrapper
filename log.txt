@@ -853,3 +853,18 @@ Generated Lead: Cabinet dentaire du Souverain | Phone: +3225343853
 Generated Lead: Cabinet Dentaire des îles d'or | Phone: +3225343853
 Successfully saved to leads.csv (Total: 100 leads)
 Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/entrepreneur+tanger/@35.7564144,-5.8520948,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI2MDQxNC4wIKXMDSoASAFQAw%3D%3D
+Skipped (No valid phone): SEG Maroc
+Skipped (No valid phone): Construction Materials COMPTOIR AHRAM
+Generated Lead: lMojamaa elhassani N22 tanger | Phone: 662082098
+Generated Lead: Construction métallique Tanger- IECC | Phone: 691409434
+Generated Lead: Ma-Lex Centre d'affaires - Création entreprise à Tanger - Domiciliation Tanger - Dépôt de marque | Phone: 691409434
+Generated Lead: NOVA ORIENTIS Centre d'affaires - Création entreprise à Tanger - Domiciliation Tanger - création société Tanger - marque | Phone: 661197304
+Generated Lead: STE TANOUKRA entreprise de rénovation et aménagement des bâtiments | Phone: 668249403
+Generated Lead: Aremi-société De construction tout corps d'état et construction métallique | Phone: 668249403
+Generated Lead: Aremi - Construction Métalliques et Bâtiment / BTP, Aménagement intérieurs et extérieurs à Tanger | Phone: 668249403
+Generated Lead: IFM - Immatriculation Foncière Maroc | Phone: 669520520
+Generated Lead: Hilti Tanger | Phone: 669520520
+Generated Lead: Copymage | Phone: 401718000531061650
+Successfully saved to leads.csv (Total: 10 leads)
+Successfully saved to leads.xlsx
