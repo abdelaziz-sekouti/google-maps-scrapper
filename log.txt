@@ -713,3 +713,143 @@ Generated Lead: Riad Marrakech Vendome & Spa | Phone: 600608608
 Generated Lead: Riad Kheirredine Marrakech | Phone: 600608608
 Generated Lead: Riad Anya & SPA | Phone: 600608608
 Scrolling to load more results (batch complete)...
+Generated Lead: Riad Livia Marrakech | Phone: 600608608
+Generated Lead: Riad Jamaique MARRAKECH | Phone: 600608608
+Generated Lead: Riad Stella Cadente Marrakech | Phone: 600608608
+Skipped (No valid phone): Riad Dar Sara
+Skipped (No valid phone): Riad Casa Felicitá & SPA
+Skipped (No valid phone): Riad ayada maison d'hôtes Marrakech
+Skipped (No valid phone): Riad Berbère Marrakech
+Skipped (No valid phone): Riad Matins De Marrakech
+Skipped (No valid phone): Riad Cocoon
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Riad Diamond Of Marrakech
+Skipped (No valid phone): Riad Nyla Wellness And Spa Marrakech
+Skipped (No valid phone): Riad Tassili Marrakech
+Skipped (No valid phone): Angsana Riads Collection Morocco
+Skipped (No valid phone): Riad - Hammam - Spa Marrakech - Riad El Khaeir
+Skipped (No valid phone): Riad Thami
+Skipped (No valid phone): Riad Marrakech Dar Chibania
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Skipped (No valid phone): Riad Jmya Marrakech
+Generated Lead: Riad Azra Marrakech | Phone: 662118277
+Generated Lead: Riad Aloes & Spa Marrakech | Phone: 662118277
+Generated Lead: Riad Palais Calipau | Phone: 662118277
+Generated Lead: Riad Anaïs Marrakech | Phone: 675647585
+Successfully saved to leads.csv (Total: 20 leads)
+Successfully saved to leads.xlsx
+Navigating to: https://www.google.com/maps/search/dentiste+bruxelles/@50.8491372,4.2849134,12z/data=!3m1!4b1!4m4!2m3!5m2!5m1!1s2026-05-14?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+Generated Lead: Maria El Mourabi | Phone: 472859350
+Generated Lead: SMILES.Antwerpen (SmilesByMaria - INVISALIGN Center of Excellence) | Phone: +3233619393
+Generated Lead: Clinique Dentaire Dentoker - Cabinet Dentiste Bruxelles | Phone: +32475682233
+Generated Lead: Dentiste Bruxelles Laeken | Phone: +32493333131
+Generated Lead: Dentiste Brussels Smile Clinic | Phone: +3226082671
+Generated Lead: Dr Yosri Fhaiel - Dentiste / orthodontiste à Bruxelles | Phone: +3227322803
+Generated Lead: LaDentisterie — Cabinet dentaire à Ixelles, Bruxelles. | Phone: +3227760757
+Generated Lead: iDent Clinic Bruxelles | Phone: +3223115418
+Generated Lead: Dentiste Bruxelles | Clinique dentaire Lemonnier | Phone: +3222685145
+Scrolling to load more results (batch complete)...
+Generated Lead: Orthodental Jurassic (Red) | Phone: +3222685145
+Generated Lead: Clinique Dentaire des Arts srl (formerly Scandinavian Dental Center) | Phone: +3222685145
+Generated Lead: Cabinet dentaire de la paix | Phone: +3222685145
+Generated Lead: Cabinet Dentaire Louise. Dentiste Ixelles, Bruxelles | Phone: +3222685145
+Generated Lead: Endodontie Louise. Dévitalisation dentaire Ixelles Bruxelles - Endodontiste | Phone: +3223544469
+Generated Lead: OdontoSmile: Clinique Dentaire Pluridisciplinaire et d'Urgence | Phone: +3223544469
+Generated Lead: Dentiste Bruxelles Dental Zen - Dentiste à Bruxelles Dévitalisation, Invisalign | Phone: +3223544469
+Generated Lead: Cabinet Dentt. Brussels | Phone: +32471664104
+Generated Lead: Rosa Gigante - Dentiste à Bruxelles🦷 | Phone: +32471664104
+Scrolling to load more results (batch complete)...
+Generated Lead: Dental Treatment Center - Dentist Brussels | Phone: +3222310432
+Generated Lead: Cabinet dentaire Livourne / Dentistes - Bruxelles | Phone: +3225377396
+Generated Lead: Cabinet Dentaire AID | Phone: +32472352512
+Generated Lead: Dentiste Chismile Hoang Chi Bruxelles | Phone: +32472352512
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Generated Lead: DentalCenter SL Dupuis | Phone: 26538008
+Generated Lead: Clinique Dentaire Bockstael 360° | Phone: +3225824077
+Generated Lead: Dentist Brussels SA | Phone: +3226758100
+Generated Lead: Versailles Dental Clinic | Dentius Laeken | Phone: +3226758100
+Generated Lead: Cabinet Dentaire Peris | Phone: +3226758100
+Generated Lead: Winston Dental Clinic - Uccle, Bruxelles | Phone: +32477046965
+Generated Lead: Clinique Dentaire Atomium | Phone: +32477046965
+Generated Lead: Dentiste urgence Bruxelles | Phone: +32477046965
+Generated Lead: Cabinet Dentaire du Parnasse | Phone: +32471171729
+Generated Lead: HA Dental Clinic - Cabinet Dentaire | Phone: +32471171729
+Generated Lead: Dentiste Bruxelles : Cabinet Dentaire Van Lint à Bruxelles | Phone: +3225212464
+Generated Lead: Centre dentaire | Phone: +3225212464
+Generated Lead: Cabinet Dentaire du Midi | Phone: +3225212464
+Generated Lead: Clinique dentaire des Scarabées | Phone: +3224661476
+Generated Lead: Centre Dentaire Meiser | Phone: +3224661476
+Generated Lead: Dentiste Ixelles - Remi Dental Clinic | Phone: +3226499053
+Scrolling to load more results (batch complete)...
+Generated Lead: Aba Dental - Bruxelles | Phone: +3226499053
+Generated Lead: Cabinet dentaire du Dr Gregory IOVLEFF | Phone: +3225241894
+Generated Lead: b-Smile Dental Clinic | Phone: +3226494155
+Generated Lead: DENTIST UCLE Clinique Dentaire Dentius Uccle | Phone: +3226494155
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Generated Lead: Tandartspraktijk Pearl Dental Group - Brussels / Eurocare Dental Center | Phone: +3223447944
+Generated Lead: DENTAL OFFICE BRUSSELS | Phone: +3226463236
+Generated Lead: Kleopatra Karamigkou - Building Smiles. | Phone: +3226463236
+Generated Lead: Dental Studio 445 - Dentiste Brice REDOR | Phone: +3223444743
+Generated Lead: Dent Evolution Clinic | Phone: +3227510242
+Generated Lead: FD Dental Clinic | Phone: +3227510242
+Generated Lead: KAM Dentaire - Cabinet dentaire | Phone: +3222173032
+Generated Lead: Cabinet Dentaire Kristina Nil | Phone: +3222173032
+Generated Lead: VOCLIdental Basilique | Phone: +3227337580
+Generated Lead: Shine Ortho & Dental Clinic | Phone: +3227322803
+Generated Lead: Centre Dentaire Flagey | Phone: +3227322803
+Generated Lead: Dentiste Nadi Tahiri Hind - Cabinet Dentaire Dentolys | Phone: +3226488809
+Generated Lead: Cabinet Livourne Abdelmalek El Hachmi Dentiste | Phone: +3226488809
+Generated Lead: Urgence Dentaire Bruxelles | Phone: +3225377396
+Generated Lead: Cabinet dentaire Ixelles dental | Phone: +3222425684
+Generated Lead: Cabinet Dentaire Healthy Smile | Phone: +32474607036
+Generated Lead: Luc Fontaine Dentiste | Phone: +32474607036
+Scrolling to load more results (batch complete)...
+Generated Lead: Santé Dental | Phone: +3223043835
+Generated Lead: Cabinet dentaire Van de Winkel - Mandoux🦷 | Phone: +3223043835
+Generated Lead: Cabinet dentaire des Pagodes : Dentistes Danièle Bayart, Keshav Dookharam, Ghintuiala Bianca et Simon Bianca hygiéniste.. | Phone: +3222683212
+Generated Lead: Advanced European Dental Clinic | Phone: +3222683212
+Generated Lead: Clinique Dentaire d'Etterbeek | Phone: +3227256559
+Generated Lead: Cabinet médico-dentaire Castilla | Phone: +3227256559
+Generated Lead: Dental Clinic - Namour | Phone: +32474646440
+Generated Lead: Dental Clinic Tour & Taxis | Phone: +32491888870
+Generated Lead: Jean-Stéphane Lorand - Dentiste à Bruxelles - Cabinet dentaire Denti-Plus🦷 | Phone: +32491888870
+Generated Lead: Dimitrova Tzvetelina | Phone: +3222230037
+Generated Lead: Orthodontie Dian - Orthodontiste Bruxelles Etterbeek. | Phone: +3222230037
+Scrolling to load more results (batch complete)...
+Generated Lead: Cabinet Dentaire Bruxelles | Phone: +3224461762
+Generated Lead: Nele Samaey | Phone: +32474032762
+Generated Lead: Dentiste pour enfants Marius B | Phone: +32471171729
+Generated Lead: Centre dentaire La Santé DRHOM | Phone: +32471171729
+Generated Lead: CLINIQUE DENTAIRE - FREESIADENTAL | Phone: 45806161000+32492109706
+Generated Lead: Lossy Cordelia | Phone: 45806161000+32492109706
+Generated Lead: Clinique dentaire Peter Benoit | Phone: +32474485244
+Generated Lead: KAM Dentaire - Clinique dentaire ORTHODENTAL | Phone: +32474485244
+Generated Lead: DENTISTE AMADENT | Phone: +32460961112
+Generated Lead: Adriaenssens Philippe | Phone: +32460961112
+Generated Lead: Nacar Dental Clinic | Phone: +3226460618
+Scrolling to load more results (batch complete)...
+Scrolling to load more results (batch complete)...
+Generated Lead: Cabinet Dentaire Marlow - Uccle | Phone: +3226147352
+Generated Lead: Cabinet dentaire ZAPHIRDENT | Phone: +3226147352
+Generated Lead: Clinique Dentaire Schaerbeek-Houffalize | Phone: +3226725949
+Generated Lead: Dentiste Ares Dental Bruxelles - Saint Gilles - Urgences dentaires - Tiers payant | Phone: +3226725949
+Generated Lead: Centre dentaire conventionné Dental Point | Phone: +3225384800
+Generated Lead: Floss Dental - Dentiste Saint-Gilles /Cabinet Dentaire Ixelles | Phone: +3225384800
+Generated Lead: Centre Dentaire Etangs Noirs / AM Dental | Phone: +3225384800
+Generated Lead: Dental Anspach - Dentiste urgence & pédiatrique | Phone: +3225384800
+Generated Lead: Louise De Brabanter | Phone: +3222017803
+Generated Lead: Cabinet Dentaire Bellelis (Dentiste à Uccle) | Phone: +3222017803
+Generated Lead: Ahariz / Mohamed🦷 | Phone: +3228518252
+Generated Lead: Walid Sam Dentiste Uccle | Phone: +3228518252
+Generated Lead: Clinique dentaire Van Volxem | Phone: +3228968999
+Generated Lead: Cabinet Dentaire Karima ENNAJI | Phone: +3228968999
+Generated Lead: Clinique Dentaire Moris | Phone: +3224787460
+Generated Lead: Centre Dentaire Defacqz 129 | Phone: +3225343853
+Generated Lead: Smile Corner - Orthodontiste Bruxelles - Uccle | Phone: +3225343853
+Generated Lead: Cabinet dentaire du Souverain | Phone: +3225343853
+Generated Lead: Cabinet Dentaire des îles d'or | Phone: +3225343853
+Successfully saved to leads.csv (Total: 100 leads)
+Successfully saved to leads.xlsx

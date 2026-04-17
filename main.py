@@ -314,16 +314,18 @@ class GoogleMapsScraper:
 
                     lead_data = {
                         "Name": name,
-                        "City": self.city,
-                        "Indicatif": self.indicatif,
                         "Phone": normalized_phone,
-                        "Status": status,
-                        "WhatsApp Link": wa_link,
+                        "indicatif": self.indicatif,
                         "Message": message,
-                        "Website": website,
+                        "Wp_Link": wa_link,
+                        "Status": status,
+                        "City Website": website,
                         "Address": address,
-                        **socials,
-                        "Google Maps Link": maps_link
+                        "Facebook": socials["facebook"],
+                        "Instagram": socials["instagram"],
+                        "Messenger": socials["messenger"],
+                        "Twitter": socials["twitter"],
+                        "Google Maps Url": maps_link
                     }
 
 
@@ -382,9 +384,8 @@ class GoogleMapsScraper:
         # ------------------------
 
         # Reorder columns for better visibility
-        cols = ["Name", "Phone", "City", "Message", "WhatsApp Link", "Status", "Indicatif", "Website", "Address"]
-        other_cols = [c for c in final_df.columns if c not in cols]
-        final_df = final_df[cols + other_cols]
+        cols = ["Name", "Phone", "indicatif", "Message", "Wp_Link", "Status", "City Website", "Address", "Facebook", "Instagram", "Messenger", "Twitter", "Google Maps Url"]
+        final_df = final_df[cols]
 
         # Save CSV
         final_df.to_csv(csv_file, index=False)
